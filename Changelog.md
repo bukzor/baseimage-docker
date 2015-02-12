@@ -1,3 +1,6 @@
+## -bukzor1 (not planned for release)
+ * added wait-for-services script; when the command finishes, runit and services are in a steady state
+
 ## -bukzor0 (not planned for release)
 
  * removed insecure-key support
